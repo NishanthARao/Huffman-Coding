@@ -7,7 +7,7 @@ This is an attempt to calculate the huffman codes for a given source and its res
 If S = {s1, s2, s3, s4, s5, s6, s7} with probabilities p = {p1, p2, p3, p4, p5, p6, p7} then give the input as follows:
   [p1 p2 p3 p4 p5 p6 p7]
   
-3)The output will be shown in a reader-friendly manner with the variance.
+3)The output will be shown in a reader-friendly manner with the variance, entropy and efficiency of the code.
 
 Note: 
 1)This code works only for binary symbols.
